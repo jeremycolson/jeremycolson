@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.gif" alt="Jeremy Colson" width="100%" />
+  <img src="banner_fall.gif" alt="Jeremy Colson" width="100%" />
 </div>
 
 ```
